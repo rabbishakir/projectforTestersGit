@@ -6,6 +6,7 @@ public class TestClass {
 		
 		System.out.println("This is a project for git");
 		System.out.println("I will put it on stagiong for git");
+		System.out.println("This is another change");
 		
 
 	}
